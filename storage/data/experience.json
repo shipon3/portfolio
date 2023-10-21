@@ -1,0 +1,31 @@
+{
+    "work_experience": [
+      {
+        "position": "Back End Developer",
+        "company": "Avientech",
+        "location": "Uttar Badda",
+        "start_date": "2022-09-01",
+        "end_date": "Continue",
+        "responsibilities": "Designed, developed, and maintained the server-side logic and databases for web applications and APIs. Utilized programming languages such as Python, Node.js, and PHP to build robust and scalable back-end systems. Optimized database performance and implemented efficient queries, reducing page load times and improving overall application responsiveness. Worked on RESTful API development and integration, enabling seamless data exchange between the front-end and back-end. Implemented security best practices to safeguard user data and prevent common vulnerabilities such as SQL injection and cross-site scripting (XSS). Collaborated with front-end developers to ensure smooth integration and functionality of web applications. Conducted unit testing and integration testing to identify and resolve bugs and issues.Documented API endpoints, data structures, and system architecture for the team and clients.Supported production deployments and monitored server performance, making necessary adjustments to maintain uptime and responsiveness."
+        
+      },
+      {
+        "position": "Back End Developer",
+        "company": "Deelko",
+        "location": "Mirpur - 10",
+        "start_date": "2021-01-01",
+        "end_date": "2022-08-31",
+        "responsibilities": "Designed, developed, and maintained the server-side logic and databases for web applications and APIs. Utilized programming languages such as Python, Node.js, and PHP to build robust and scalable back-end systems. Optimized database performance and implemented efficient queries, reducing page load times and improving overall application responsiveness. Worked on RESTful API development and integration, enabling seamless data exchange between the front-end and back-end. Implemented security best practices to safeguard user data and prevent common vulnerabilities such as SQL injection and cross-site scripting (XSS). Collaborated with front-end developers to ensure smooth integration and functionality of web applications. Conducted unit testing and integration testing to identify and resolve bugs and issues.Documented API endpoints, data structures, and system architecture for the team and clients.Supported production deployments and monitored server performance, making necessary adjustments to maintain uptime and responsiveness."
+        
+      },
+        {
+          "position": "Front End Developer",
+          "company": "BIT",
+          "location": "Mirpur - 10",
+          "start_date": "2018-02-01",
+          "end_date": "2018-10-01",
+          "responsibilities": "Developed and maintained the front-end of web applications, ensuring responsive and user-friendly design across various devices and browsers . Collaborated closely with UI/UX designers to implement design mockups, ensuring pixel-perfect rendering of web pages. Utilized HTML, CSS, and JavaScript to create interactive and visually appealing user interfaces . Implemented and optimized animations and transitions to enhance user engagement and overall user experience. Conducted regular cross-browser testing and resolved compatibility issues for Internet Explorer, Edge, Chrome, Firefox, and Safari. Managed version control using Git, ensuring efficient collaboration and tracking changes within the codebase. Participated in agile development teams, attending daily stand-ups, and contributing to sprint planning and retrospectives."
+          
+        }
+      ]
+}

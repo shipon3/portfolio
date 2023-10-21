@@ -1,0 +1,47 @@
+{
+    "name": "Md. Shipon Mondal",
+    "father_name": "Md. Rezaul Karim",
+    "mother_name": "Mst. Pari Banu",
+    "date_of_birth": "1999-01-01",
+    "place_of_birth": "Joypurhat",
+    "gender": "Male",
+    "nationality": "Bangladeshi",
+    "marital_status": "Married",
+    "address": "Joypurhat, Rajshahi",
+    "contact_information": {
+      "email": "engshipon3@email.com",
+      "phone": "+880 1771 835208"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "school": "University of City",
+        "graduation_year": 2022
+      },
+      {
+        "degree": "Diploma in Computer Science",
+        "major": "Computer",
+        "school": "Institute of Information Technology Bogura (IITB)",
+        "graduation_year": 2018
+      },
+      {
+        "degree": "Secondary School Certificate (SSC)",
+        "major": "Science",
+        "school": "Kalai M U High School",
+        "graduation_year": 2014
+      }
+    ],
+    
+    "skills": [
+      "Programming languages: Php, JavaScript, C",
+      "Project management",
+      "Data analysis and visualization",
+      "Product development and strategy",
+      "Problem-solving and critical thinking"
+    ],
+    "languages": ["English (Native)", "Banguli (Intermediate)"],
+    "interests": ["Hiking", "Coding", "Reading", "Traveling"]
+  }
+  
+  
